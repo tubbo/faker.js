@@ -1,13 +1,13 @@
 {
-  "name": "faker",
+  "name": "@tubbo/faker",
   "description": "Generate massive amounts of fake contextual data",
   "version": "4.1.0",
   "contributors": [
-    "Marak Squires <marak.squires@gmail.com>"
+    "Tom Scott <tubbo@psychedeli.ca>"
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/Marak/Faker.js.git"
+    "url": "http://github.com/tubbo/faker.js.git"
   },
   "scripts": {
     "lint": "node_modules/.bin/jshint ./lib --config ./.jshintrc",

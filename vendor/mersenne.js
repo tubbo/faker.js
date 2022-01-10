@@ -261,7 +261,7 @@ exports.MersenneTwister19937 = MersenneTwister19937;
 var gen = new MersenneTwister19937;
 gen.init_genrand((new Date).getTime() % 1000000000);
 
-// Added max, min range functionality, Marak Squires Sept 11 2014
+// Added max, min range functionality, Tom Scott Sept 11 2014
 exports.rand = function(max, min) {
     if (max === undefined)
         {

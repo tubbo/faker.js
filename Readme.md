@@ -366,10 +366,10 @@ If you require the absolute latest version of `faker.js` the `master` branch @ h
 
 ## Maintainer
 
-#### Marak Squires
+#### Tom Scott
 
 faker.js - Copyright (c) 2017
-Marak Squires
+Tom Scott
 http://github.com/marak/faker.js/
 
 faker.js was inspired by and has used data definitions from:
